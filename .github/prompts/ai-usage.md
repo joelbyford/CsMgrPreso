@@ -3,11 +3,19 @@ This file has been maintained in order to provide full transparency into any AI 
 
 Please note the actual prompts are listed here without cleanup.  Some may have typos, spelling errors or invalid capitalization and have not been corrected for the purpose of maintaining full transparency.
 
+Only relevant details of responses saved here. 
+
 ## Copilot 365
 
 ### Locate the appropriate corporate template (if available)
 - `do we have access to official github powerpoint templates?`
+    - https://microsoft.sharepoint.com/teams/HubberPresentationDesignToolsandTemplates/Shared%20Documents/Forms/AllItems.aspx
+    - Likely 2 years old, but good starting point.
 
+### Product & Licensing Research
+- `how is GitHub Enterprise & GitHub Advanced Security Licensed`
+    - https://docs.github.com/en/enterprise-cloud@latest/billing/concepts/enterprise-billing/billing-for-enterprises
+    - https://docs.github.com/en/billing/concepts/product-billing/github-advanced-security
 
 
 
