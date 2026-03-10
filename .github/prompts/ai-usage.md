@@ -16,7 +16,11 @@ Only relevant details of responses saved here.
 - `how is GitHub Enterprise & GitHub Advanced Security Licensed`
     - https://docs.github.com/en/enterprise-cloud@latest/billing/concepts/enterprise-billing/billing-for-enterprises
     - https://docs.github.com/en/billing/concepts/product-billing/github-advanced-security
-
+- `are there any Financial Services success stories or white papers published by GitHub?`
+    - Deutsche Börse Group
+    - Nationwide
+    - Coinbase
+    - Societe Generale
 
 
 ## GitHub Copilot
