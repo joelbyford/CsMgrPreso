@@ -18,5 +18,11 @@ Only relevant details of responses saved here.
 
 ### Cleanup and Polish
 - `help me improve these three phase names:  Build Excitement, Deployment Assistance, Land & Expand`
+- `are there any Financial Services success stories or white papers published by GitHub?`
+    - Deutsche Börse Group
+    - Nationwide
+    - Coinbase
+    - Societe Generale
+
 
 ## GitHub Copilot
