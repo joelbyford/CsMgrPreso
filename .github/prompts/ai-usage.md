@@ -5,11 +5,10 @@ Please note the actual prompts are listed here without cleanup.  Some may have t
 
 Only relevant details of responses saved here. 
 
-## Copilot 365
+## Microsoft Copilot 365
 
 ### Locate the appropriate corporate template (if available)
 - `do we have access to official github powerpoint templates?`
-    - https://microsoft.sharepoint.com/teams/HubberPresentationDesignToolsandTemplates/Shared%20Documents/Forms/AllItems.aspx
     - Likely 2 years old, but good starting point.
 
 ### Product & Licensing Research
@@ -17,6 +16,7 @@ Only relevant details of responses saved here.
     - https://docs.github.com/en/enterprise-cloud@latest/billing/concepts/enterprise-billing/billing-for-enterprises
     - https://docs.github.com/en/billing/concepts/product-billing/github-advanced-security
 
-
+### Cleanup and Polish
+- `help me improve these three phase names:  Build Excitement, Deployment Assistance, Land & Expand`
 
 ## GitHub Copilot
