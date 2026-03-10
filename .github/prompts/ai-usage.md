@@ -15,14 +15,21 @@ Only relevant details of responses saved here.
 - `how is GitHub Enterprise & GitHub Advanced Security Licensed`
     - https://docs.github.com/en/enterprise-cloud@latest/billing/concepts/enterprise-billing/billing-for-enterprises
     - https://docs.github.com/en/billing/concepts/product-billing/github-advanced-security
-
-### Cleanup and Polish
-- `help me improve these three phase names:  Build Excitement, Deployment Assistance, Land & Expand`
 - `are there any Financial Services success stories or white papers published by GitHub?`
     - Deutsche Börse Group
     - Nationwide
     - Coinbase
     - Societe Generale
+- `Does GitHub have an official User Group or Special Interest Group anywhere?`
+    - Currently no official UG or SIG, but other champion-like programs exist.
+
+- `how much does it cost to add/maintain a credly badge`
+    - Centrally managed at Microsoft. 
+    - New badges *may* be covered by existing contract.
+
+
+### Cleanup and Polish
+- `help me improve these three phase names:  Build Excitement, Deployment Assistance, Land & Expand`
 
 
 ## GitHub Copilot
