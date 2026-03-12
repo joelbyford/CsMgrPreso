@@ -33,3 +33,4 @@ Only relevant details of responses saved here.
 
 
 ## GitHub Copilot
+**None**
